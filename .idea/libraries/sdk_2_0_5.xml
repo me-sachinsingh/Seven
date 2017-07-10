@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sdk-2.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/71cb4b27a074f2c82f9c7b6130800845fb510ef2/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/71cb4b27a074f2c82f9c7b6130800845fb510ef2/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.api/sdk/2.0.5/28af3792cffc87ca58b47c456b59ee9474a54c26/sdk-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

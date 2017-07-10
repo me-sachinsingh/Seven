@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mesachinsingh/AndroidStudioProjects/Seven/app/build/intermediates/res/merged/debug/mipmap-xhdpi/mic_button.png",
+        "source": "/home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/res/mipmap-xhdpi/mic_button.png"
+    },
+    {
+        "merged": "/home/mesachinsingh/AndroidStudioProjects/Seven/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

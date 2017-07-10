@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:8:22-71
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:13:22-70
+application
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:15:5-35:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /root/.android/build-cache/f741dd34d9a2ad90e1c870cf42309bff1ef3d3a1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /root/.android/build-cache/eda402ed25b4231e701ac43d08f98dbf44e5ec62/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /root/.android/build-cache/540b5ec387ae817d862c70a79eac4bc07460677d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /root/.android/build-cache/bc51900bba8e24d26cd3db1e45b68941c9c86887/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /root/.android/build-cache/567b06deccc9b0cd3fe93f8c8489545be991fa7a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /root/.android/build-cache/2a0bd7526325aa86c1a84580fd2166a2672a3f67/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /root/.android/build-cache/e584ab648b656294db1cdeb4b7d5c842af1689d4/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /root/.android/build-cache/af8ff07c3f8da0eb8a206037eb03ee461d67cce7/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /root/.android/build-cache/e744b76fa82ebe2f891e370f45c82907315c60c3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /root/.android/build-cache/f4f06200b79f2553a83ff59b60e908aa311613dd/output/AndroidManifest.xml:9:5-20
+MERGED from [ai.api:sdk:2.0.5] /root/.android/build-cache/71cb4b27a074f2c82f9c7b6130800845fb510ef2/output/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:20:9-59
+activity#seven.mesachinsingh.com.MainActivity
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:25:27-74
+activity#seven.mesachinsingh.com.IntentIdentifier
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:30:13-35
+	android:name
+		ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:29:13-45
+intent-filter#android.intent.category.LAUNCHER
+ADDED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml:31:13-33:29
+uses-sdk
+INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /root/.android/build-cache/f741dd34d9a2ad90e1c870cf42309bff1ef3d3a1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /root/.android/build-cache/eda402ed25b4231e701ac43d08f98dbf44e5ec62/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /root/.android/build-cache/540b5ec387ae817d862c70a79eac4bc07460677d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /root/.android/build-cache/bc51900bba8e24d26cd3db1e45b68941c9c86887/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /root/.android/build-cache/567b06deccc9b0cd3fe93f8c8489545be991fa7a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /root/.android/build-cache/2a0bd7526325aa86c1a84580fd2166a2672a3f67/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /root/.android/build-cache/e584ab648b656294db1cdeb4b7d5c842af1689d4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /root/.android/build-cache/af8ff07c3f8da0eb8a206037eb03ee461d67cce7/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /root/.android/build-cache/e744b76fa82ebe2f891e370f45c82907315c60c3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /root/.android/build-cache/f4f06200b79f2553a83ff59b60e908aa311613dd/output/AndroidManifest.xml:5:5-7:41
+MERGED from [ai.api:sdk:2.0.5] /root/.android/build-cache/71cb4b27a074f2c82f9c7b6130800845fb510ef2/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /root/.android/build-cache/f741dd34d9a2ad90e1c870cf42309bff1ef3d3a1/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mesachinsingh/AndroidStudioProjects/Seven/app/src/main/AndroidManifest.xml
